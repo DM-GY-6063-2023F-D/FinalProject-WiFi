@@ -1,6 +1,6 @@
 # Final Project Template using WiFi
 
-Arduino reads a button on pin 2 and a potentiometer on pin A0 and passes those values on to the p5js sketch via a BLE connection.
+Arduino reads a button on pin 2 and a potentiometer on pin A0 and passes those values on to the p5js sketch using a WiFi connection.
 
 The object that is created and sent to p5js looks like this:
 
